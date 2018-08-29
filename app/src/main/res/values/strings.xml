@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsFeedApp</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="date">Date</string>
+    <string name="author">Author</string>
+    <string name="section_name">Section name</string>
+    <string name="article_title">Article title</string>
+    <string name="no_news_found">no news found</string>
+</resources>

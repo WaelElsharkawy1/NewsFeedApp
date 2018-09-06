@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_section_types_labels">
+        <item>@string/settings_section_type_football_label</item>
+        <item>@string/settings_section_type_business_label</item>
+        <item>@string/settings_section_type_politics_label</item>
+        <item>@string/settings_section_type_books_label</item>
+    </string-array>
+
+    <string-array name="settings_section_type_values">
+        <item>@string/settings_section_type_football_value</item>
+        <item>@string/settings_section_type_business_value</item>
+        <item>@string/settings_section_type_politics_value</item>
+        <item>@string/settings_section_type_books_value</item>
+    </string-array>
+</resources>

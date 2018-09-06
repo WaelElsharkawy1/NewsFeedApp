@@ -6,4 +6,36 @@
     <string name="section_name">Section name</string>
     <string name="article_title">Article title</string>
     <string name="no_news_found">no news found</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">News App Settings</string>
+
+    <!-- Strings For Result Size Preference [CHAR LIMIT=30] -->
+    <string name="settings_result_size_label">Result Size</string>
+    <string name="settings_result_size_key" translatable="false">page-size</string>
+    <string name="settings_result_size_default" translatable="false">6</string>
+
+    <!-- Strings For Section Type Preference [CHAR LIMIT=30] -->
+    <string name="settings_section_type_label">Section Type</string>
+    <string name="settings_section_type_key" translatable="false">section</string>
+    <string name="settings_section_type_default" translatable="false">@string/settings_section_type_football_value</string>
+
+    <!-- Label for section type football option [CHAR LIMIT=20] -->
+    <string name="settings_section_type_football_label">Football</string>
+    <string name="settings_section_type_football_value" translatable="false">football</string>
+
+      <!-- Label for section type Business option [CHAR LIMIT=20] -->
+    <string name="settings_section_type_business_label">Business</string>
+    <string name="settings_section_type_business_value" translatable="false">business</string>
+
+    <!-- Label for section type Books option [CHAR LIMIT=20] -->
+    <string name="settings_section_type_books_label">Books</string>
+    <string name="settings_section_type_books_value" translatable="false">books</string>
+
+    <!-- Label for section type politics option [CHAR LIMIT=20] -->
+    <string name="settings_section_type_politics_label">Politics</string>
+    <string name="settings_section_type_politics_value" translatable="false">politics</string>
+
 </resources>
